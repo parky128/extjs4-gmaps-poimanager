@@ -1,0 +1,19 @@
+.pmAddLabel 
+{
+    color: red;
+	background-color: white;
+	font-family: "Lucida Grande", "Arial", sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	width: 100px;
+	border: 1px solid black;
+    border-radius: 4px;
+	white-space: nowrap;
+	padding: 0px 2px 0px 2px;
+	white-space: pre-wrap;      /* CSS3 */   
+	white-space: -moz-pre-wrap; /* Firefox */    
+	white-space: -pre-wrap;     /* Opera <7 */   
+	white-space: -o-pre-wrap;   /* Opera 7 */    
+	word-wrap: break-word;      /* IE */
+}
