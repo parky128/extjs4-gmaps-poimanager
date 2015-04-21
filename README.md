@@ -12,4 +12,4 @@ Click on a location where you wish to create a new POI, and an ExtJS window cont
 
 After successfully creating the POI, it will get added to a local ExtJS store which is bound to a grid component displayed to the left hand side of the map.
 
-[To Do List]()
+[To Do List](https://github.com/parky128/extjs4-gmaps-poimanager/issues)
