@@ -1,7 +1,7 @@
 # extjs4-gmaps-poimanager
 POI creation tool using a custom Google maps control.
 
-Based on similar code used in the [Drag Zoom](http://google-maps-utility-library-v3.googlecode.com/svn/trunk/keydragzoom/examples/dragzoom.html) tool works from Google Maps [Utility Library](https://code.google.com/p/google-maps-utility-library-v3/wiki/Libraries), I created an add POI tool library which is activated through a custom map control.
+Based on similar code used in the [Drag Zoom](http://google-maps-utility-library-v3.googlecode.com/svn/trunk/keydragzoom/examples/dragzoom.html) tool works from Google Maps [Utility Library](https://code.google.com/p/google-maps-utility-library-v3/wiki/Libraries), I created an add POI tool library which is activated through a custom map control (see addpoitool.js in resources/lib for the source)
 
 [Working Demo](http://parky128.github.io/extjs4-gmaps-poimanager/)
 
